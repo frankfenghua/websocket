@@ -20,6 +20,9 @@ https://npmjs.org/package/websocket.io
 
 http://socket.io/#how-to-use
 
+HTML5 Web Socket implementation powered by Flash
+https://github.com/gimite/web-socket-js
+
 Explanation
 -----------
 change TestApp from AS3WebSocket to connect chat-server.js and echo-server.js
