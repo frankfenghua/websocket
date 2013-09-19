@@ -26,7 +26,7 @@ change TestApp from AS3WebSocket to connect chat-server.js and echo-server.js
 
 Install
 -----------
-install node.js
+install node.js, then 
 npm install socket.io
 npm install websocket
 
